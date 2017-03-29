@@ -32,4 +32,8 @@
     <string name="completed">完成</string>
     
     
+    <string name="progress_loading">数据加载中\u2026</string>
+    <string name="loading">加载中\u2026</string>
+    <string name="nonet">没有网络连接</string>
+    
 </resources>

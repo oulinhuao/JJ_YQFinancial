@@ -42,8 +42,8 @@ public class MainActivity extends BaseFragmentActivityHeader implements OnChecke
 	
 	@Override
 	protected void getViews() {
-		setContentView(R.layout.activity_main);
-		ButterKnife.inject(this);
+		setContentView(R.layout.activity_main);// 配置布局文件
+		ButterKnife.inject(this);// ButterKnife 初始化，调用了这句后 前面注册控件的部分才有效
 		
 	}
 	@Override

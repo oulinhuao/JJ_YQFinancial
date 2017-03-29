@@ -22,6 +22,8 @@
     <color name="background_tab_pressed">#6633B5E5</color>
     
     <color name="title_bg">#16b783</color>
+    <color name="line">#73ffffff</color>
+    <color name="item_click">#fbede4</color>
     
     
     

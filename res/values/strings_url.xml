@@ -9,6 +9,10 @@
     <!-- method -->
     <string name="server_method_catelist">GetCategrayInfoList</string>
     
+    <string name="server_method_InformationCount">GetInformationCount</string>
+    <string name="server_method_InformationList">GetInformationList</string>
+    <string name="server_method_InformationContent">GetInformation</string>
+    
     
     
 </resources>

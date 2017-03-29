@@ -42,6 +42,9 @@
         
         <!-- 主界面 -->
         <activity android:name="com.proj.JJYQFinancial.MainActivity" android:screenOrientation="portrait"></activity>
+        
+        <activity android:name="com.proj.JJYQFinancial.test.InfoListActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name="com.proj.JJYQFinancial.test.InfoContentTxtActivity" android:screenOrientation="portrait"></activity>
     </application>
     
     
